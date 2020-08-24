@@ -97,3 +97,12 @@
 
 > minikube addons enable ingress
 ```
+
+### travis-cli
+
+- travis cli requires ruby installed
+
+```
+> gem install travis
+> travis login
+```
